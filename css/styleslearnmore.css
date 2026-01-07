@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background-image: url(Image/Lemon.jpg);
+}
+
+.container {
+    padding: 30px;
+    max-width: 900px;
+    margin: 40px auto;
+    border-radius: 20px;
+    background: whitesmoke;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+}
+
+.h1 {
+    padding: 15px;
+    color: hotpink;
+    text-align: center;
+    border-radius: 12px;
+    letter-spacing: 2px;
+    text-align: center;
+    background-color: navajowhite;
+}
+
+.h2 {
+    color: darkgreen;
+    margin-top: 40px;
+    border-left: 6px solid hotpink;
+    padding-left: 10px;
+}
+
+.p {
+    margin: 8px 0;
+    color: black;
+    font-size: 20px;
+    line-height: 1.8;
+}
+
+.video {
+    margin-top: 15px;
+    border-radius: 20px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.15);
+}
+
+
+.hobby-item {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.info-box {
+    background-color: lightyellow;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 25px 0;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+}
+
+.footer {
+  text-align: center;
+  padding: 12px;
+  background: navajowhite;
+  color: black;
+  font-size: 10px;
+}
+
